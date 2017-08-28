@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Mon Aug 28 09:07:29 UTC 2017 - nwang@suse.com
+
+- fate#323960, support manual tickets mode.
+- Bump up the version to 4.0.1
+
+-------------------------------------------------------------------
 Wed Mar  1 10:15:02 UTC 2017 - nwang@suse.com
 
 - bsc#1027405. Move the firewall rule file to booth.
